@@ -20,7 +20,7 @@ O(V+E)
 סריקת רוחב
 
 
-# DAG (DIRECTED ACYCLIC GRAPH) 
+## DAG (DIRECTED ACYCLIC GRAPH) 
 למציאת המסלול הארוך ביותר, מכפילים כל קשת ב 1- ואז לאחר מציאת המסלול הקצר ביותר מכפילים שוב ב 1-
 
 
